@@ -1,3 +1,4 @@
 Fix typo in documentation — 2025-06-02 17:25:35
 Chore: tidy up script — 2025-07-23 18:55:59
 Chore: tidy up script — 2025-08-14 21:44:37
+Update helper notes — 2025-09-03 12:12:53
